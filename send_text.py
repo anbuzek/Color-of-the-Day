@@ -8,8 +8,8 @@ auth_token  = "72c384d70e619a8a5b07fa420bc8a527"
 client = Client(account_sid, auth_token)
 
 message = client.messages.create(
-    to="+17039288450", 
+    to="+17039288450",
     from_="+12028167494",
-    body="Hello from Python!")
+    body="boner pills h")
 
 print(message.sid)
