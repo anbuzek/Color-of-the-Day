@@ -144,7 +144,6 @@ Azure mist
 
 Azureish white
 
-B[edit]
 B'dazzled blue
 
 Baby blue
@@ -185,7 +184,7 @@ Beer
 
 Beige
 
-Big dip o’ruby
+Big dip oï¿½ruby
 
 Big Foot Feet
 
@@ -399,7 +398,6 @@ Byzantine
 
 Byzantium
 
-C[edit]
 Cadet
 
 Cadet blue
@@ -422,9 +420,9 @@ Cadmium yellow
 
 Cadmium violet
 
-Café au lait
+Cafï¿½ au lait
 
-Café noir
+Cafï¿½ noir
 
 Cal Poly Pomona green
 
@@ -730,7 +728,6 @@ Cyber yellow
 
 Cyclamen
 
-D[edit]
 Daffodil
 
 Dandelion
@@ -985,7 +982,6 @@ Dust storm
 
 Dutch white
 
-E[edit]
 Earth yellow
 
 Ebony
@@ -1050,7 +1046,6 @@ Eton blue
 
 Eucalyptus
 
-F[edit]
 Fallow
 
 Falu red
@@ -1163,7 +1158,6 @@ Fulvous
 
 Fuzzy Wuzzy
 
-G-H[edit]
 Gainsboro
 
 Gamboge
@@ -1266,7 +1260,7 @@ Gunmetal
 
 Guyabano
 
-Halayà úbe
+Halayï¿½ ï¿½be
 
 Halloween orange
 
@@ -1310,7 +1304,6 @@ Hot pink
 
 Hunter green
 
-I-J-K[edit]
 Iceberg
 
 Iced tea
@@ -1437,7 +1430,6 @@ KSU Purple
 
 KU Crimson
 
-L[edit]
 La Salle Green
 
 Languid lavender
@@ -1624,7 +1616,6 @@ Lumber
 
 Lust
 
-M[edit]
 Maastricht Blue
 
 Macaroni and Cheese
@@ -1921,7 +1912,6 @@ Mystic Maroon
 
 Mystic Red
 
-N–O[edit]
 Nadeshiko pink
 
 Napier green
@@ -2082,7 +2072,6 @@ Oxley
 
 OU Crimson Red
 
-P-Q[edit]
 Pacific Blue
 
 Pakistan green
@@ -2371,7 +2360,6 @@ Quinacridone magenta
 
 Quincy
 
-R[edit]
 Rackley
 
 Radical Red
@@ -2566,7 +2554,6 @@ Rust
 
 Rusty red
 
-S[edit]
 Sacramento State green
 
 Saddle brown
@@ -2809,7 +2796,6 @@ Super pink
 
 Sweet Brown
 
-T[edit]
 Tan
 
 Tan (Crayola)
@@ -2846,7 +2832,7 @@ Telemagenta
 
 Temptress
 
-Tenné (tawny)
+Tennï¿½ (tawny)
 
 Terra cotta
 
@@ -2918,7 +2904,6 @@ Twilight lavender
 
 Tyrian purple
 
-U–V[edit]
 UA blue
 
 UA red
@@ -3081,7 +3066,6 @@ Vodka
 
 Volt
 
-W-X-Y-Z[edit]
 Wageningen Green
 
 Warm black
